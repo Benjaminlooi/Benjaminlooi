@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I can fart Rainbows
 
-![trophy](https://github-profile-trophy.vercel.app/?username=BenjaminLooi)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=BenjaminLooi) -->
 
 ![Benjamin github stats](https://github-readme-stats.vercel.app/api?username=BenjaminLooi&count_private=true&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminLooi)
