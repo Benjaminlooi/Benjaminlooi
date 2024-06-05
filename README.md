@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="80%" alt="gif" align="center" src="https://github.com/Benjaminlooi/hi.gif">
 
 <!--
 **Benjaminlooi/Benjaminlooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
